@@ -1,3 +1,5 @@
+This library was created entirely by GPT-4 from scratch, given a one-sentence description as a prompt
+
 # Sent-Similarity: Sentence Similarity Python Module
 
 Sent-Similarity is a Python module based on the TextProcessor class, which allows you to find the top n sentences that are most similar to a given input text using a sentence transformer model.
