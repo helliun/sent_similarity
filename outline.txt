@@ -1,0 +1,10 @@
+Here's what I did:
+
+1. Write a function that imports the necessary libraries, such as nltk and sentence_transformers.
+2. Write a function that tokenizes the input text into sentences using nltk.sent_tokenize().
+3. Write a function that initializes the SentenceTransformer model with a pre-trained model name.
+4. Write a function that encodes the entire text and each sentence using the SentenceTransformer.encode() method.
+5. Write a function that calculates the cosine similarity between each sentence embedding and the entire text's embedding using sklearn.metrics.pairwise.cosine_similarity().
+6. Write a function that sorts the sentences based on their cosine similarity scores in descending order.
+7. Write a function that selects the top n sentences with the highest similarity scores.
+8. Write a function that returns the selected sentences as a list.
